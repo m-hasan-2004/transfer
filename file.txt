@@ -1,0 +1,44 @@
+هر دولوپری باید این چیت‌شیت‌ها رو داشته باشه، وگرنه نصف عمرش بر فناست! توی این پست، یه لیست خفن از مهم‌ترین چیت‌شیت‌هایی که کارتو سریع‌تر، حرفه‌ای‌تر و راحت‌تر می‌کنه رو برات آوردم! از Git و Regex گرفته تا Docker و JavaScript – اینا همون تقلب‌هایی هستن که هر برنامه‌نویسی باید بلد باشه!
+
+1. چیت‌شیت‌ GIT :
+https://education.github.com/git-cheat-sheet-education.pdf
+
+2. چیت‌شیت‌ SQL :
+https://websitesetup.org/wp-content/uploads/2020/04/MySQL-Cheat-Sheet-websitesetup.org_.pdf
+
+3. چیت‌شیت‌ Regex :
+https://adprice.fedorapeople.org/regular-expressions-cheat-sheet-v1.pdf
+
+4. چیت‌شیت‌ Docker :
+https://dockerlabs.collabnix.com/docker/cheatsheet/
+
+5. چیت‌شیت‌ UI/UX :
+https://lawsofux.com/
+
+6. چیت‌شیت‌ Grid css :
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+7. چیت‌شیت‌ Flexbox css :
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+8. چیت‌شیت‌ JS Methods :
+https://maktabkhooneh.org/mag/javascript-methods/
+
+9. چیت‌شیت‌ Bootstrap :
+https://websitesetup.org/wp-content/uploads/2020/03/Bootstrap-Cheat-Sheet-websitesetup.org_.pdf
+
+10. چیت‌شیت‌ VS code Keywords :
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+11. چیت‌شیت‌ Emmet :
+https://docs.emmet.io/cheat-sheet/
+
+12. چیت‌شیت‌ OOP in PHP :
+https://www.w3schools.com/php/php_oop_what_is.asp
+
+13. چیت‌شیت‌ NPM :
+https://docs.npmjs.com/
+
+
+DevTwitter | <Amirreza Riahi منبع
+#کاربردی@DeepDevs
