@@ -1,0 +1,130 @@
+
+Dating App - Core
+Dating App - Core
+Task: 
+Section 2: User Management
+8/19
+
+
+
+Sub-task level 1: 
+sentry - swagger
+
+
+
+Sub-task level 1: 
+Validators for all Models
+
+
+
+Sub-task level 1: 
+Serialize Models
+
+
+
+Sub-task level 1: 
+write rest apis
+
+
+
+Sub-task level 1: 
+write test for all of models
+
+
+
+Sub-task level 1: 
+admin panel filter - django-filters
+
+
+
+Sub-task level 1: 
+Use Django inheritance and Django extensions
+
+
+
+Sub-task level 1: 
+django filter - pagination - db_index and all things to do to optimize db search and performance - postgresql
+
+
+
+Sub-task level 1: 
+TimeField For Models -> Logging
+
+
+
+Sub-task level 1: 
+Account Managment View & Shape
+1
+
+
+
+Sub-task level 1: 
+Figure out the color palette and design shape and style before Starting The Frontend Section
+
+
+
+Sub-task level 1: 
+refactor models - > check all of code + help text, error msg & validator + tests
+
+Sub-task level 1: 
+utils folder for anything that is going to be used reapeatedly
+
+Sub-task level 1: 
+Error Messages
+
+Sub-task level 1: 
+Admin Inlines
+Sub-task level 1: 
+Models Helptext
+Sub-task level 1: 
+Create User model: Define user data and relationships.
+
+Sub-task level 1: 
+Multiply User Of ChoiceField
+Sub-task level 1: 
+Every section in erd should be a seperated model.py
+
+Add task
+Task: 
+Section 1: Initial Setup
+
+Task: 
+Section 0: Prepration Phase
+
+Add section
+Post Production (Backend Section)5
+Task: 
+DB Related
+ts-vector - elastic search like full text search
+3
+
+
+
+Task: 
+access code change length to 8
+
+
+
+Task: 
+Other
+2+
+
+
+
+Task: 
+front filter
+filter library q objects and ...
+
+
+
+Task: 
+front
+Svelte - tailwind - shodacn - v0.dev - slvelte libraries (admin panel and more)
+
+
+
+Add task
+Task: 
+Django Admin
+django admin unfold
+
